@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c22f60a5.chunk.css",
-    "main.js": "/static/js/main.4c47ebcb.chunk.js",
-    "main.js.map": "/static/js/main.4c47ebcb.chunk.js.map",
+    "main.js": "/static/js/main.ecc0cd33.chunk.js",
+    "main.js.map": "/static/js/main.ecc0cd33.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.835f0c11.js",
     "runtime-main.js.map": "/static/js/runtime-main.835f0c11.js.map",
     "static/js/2.c85733bb.chunk.js": "/static/js/2.c85733bb.chunk.js",
     "static/js/2.c85733bb.chunk.js.map": "/static/js/2.c85733bb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9540b3951f51b6383bbaf2ad6718caa6.js": "/precache-manifest.9540b3951f51b6383bbaf2ad6718caa6.js",
+    "precache-manifest.59ecfeae4823e11570547ea1a963ff36.js": "/precache-manifest.59ecfeae4823e11570547ea1a963ff36.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c22f60a5.chunk.css.map": "/static/css/main.c22f60a5.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -17,7 +17,7 @@
     "static/media/PAK-TURK-SCHOOL-LOGO-FINAL.jpg": "/static/media/PAK-TURK-SCHOOL-LOGO-FINAL.878b653a.jpg",
     "static/media/WhatsApp Image 2025-12-27 at 5.14.14 PM.jpeg": "/static/media/WhatsApp Image 2025-12-27 at 5.14.14 PM.780c454a.jpeg",
     "static/media/WhatsApp Image 2026-02-06 at 12.53.22 AM.jpeg": "/static/media/WhatsApp Image 2026-02-06 at 12.53.22 AM.275f1e3b.jpeg",
-    "static/media/Zubair_Ali_Resume.pdf": "/static/media/Zubair_Ali_Resume.74a2ac9c.pdf",
+    "static/media/Zubair_Ali_Resume.pdf": "/static/media/Zubair_Ali_Resume.fc3fe146.pdf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.835f0c11.js",
     "static/js/2.c85733bb.chunk.js",
     "static/css/main.c22f60a5.chunk.css",
-    "static/js/main.4c47ebcb.chunk.js"
+    "static/js/main.ecc0cd33.chunk.js"
   ]
 }

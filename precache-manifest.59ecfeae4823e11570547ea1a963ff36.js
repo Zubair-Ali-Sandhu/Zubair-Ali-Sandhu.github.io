@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9af36dfc0ccc407484a26b04829a7281",
+    "revision": "7a03703207fdeef1109eb586867a6572",
     "url": "/index.html"
   },
   {
-    "revision": "34ecf2e4533af3534d5e",
+    "revision": "dbd1619b13a11844bc2a",
     "url": "/static/css/main.c22f60a5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c85733bb.chunk.js"
   },
   {
-    "revision": "34ecf2e4533af3534d5e",
-    "url": "/static/js/main.4c47ebcb.chunk.js"
+    "revision": "dbd1619b13a11844bc2a",
+    "url": "/static/js/main.ecc0cd33.chunk.js"
   },
   {
     "revision": "d5ba7ed1ef6093fe2b95",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/WhatsApp Image 2026-02-06 at 12.53.22 AM.275f1e3b.jpeg"
   },
   {
-    "revision": "74a2ac9c411b80b34b2fb0afd9fe683f",
-    "url": "/static/media/Zubair_Ali_Resume.74a2ac9c.pdf"
+    "revision": "fc3fe1469e19d07e94b567cfa39d41bc",
+    "url": "/static/media/Zubair_Ali_Resume.fc3fe146.pdf"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
